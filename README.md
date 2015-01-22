@@ -9,7 +9,9 @@ The app requires Android Studio to run. Clone this to your desktop and then open
 
 ##You can do a lot of things with this code, but you can't:
 Put it on the Play Store
+<br>
 Take credit for it
+<br>
 Make useless commits to the repo
 
 ###Danke, Matt
