@@ -1,0 +1,5 @@
+C:\Users\Matthew\Documents\Elemental\app\build\intermediates\classes\debug
+C:\Users\Matthew\Documents\Elemental\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-fc9b96691bc3a95bb00ea4df980cf248e438ee92.jar
+C:\Users\Matthew\Documents\Elemental\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-ac48da25e3cf7f2113be4c0ea873549acf7e306f.jar
+C:\Users\Matthew\Documents\Elemental\app\build\intermediates\pre-dexed\debug\classes-562af92bb68cafbae6371c70998d02daf470354f.jar
+C:\Users\Matthew\Documents\Elemental\app\build\intermediates\pre-dexed\debug\classes-5e17ddbe01859e4d8a3a007bc9dc1b26b322923e.jar
