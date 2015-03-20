@@ -14,4 +14,4 @@ Take credit for it
 <br>
 Make useless commits to the repo
 
-###Danke, Matt
+###Thanks, Matt
