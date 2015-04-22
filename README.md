@@ -1,12 +1,13 @@
 # Elemental
 An education app my friend and I created for Android
-Grab the APK build here: https://www.dropbox.com/s/ry4in3jfyozn5gt/app-debug.apk?dl=0
+You can grab the APK build file from [my Dropbox](https://www.dropbox.com/s/ry4in3jfyozn5gt/app-debug.apk?dl=0)
 
 ##About
 Just do whatever you want with this app. It gives you an element symbol and you type in the name, super simple. I wrote this app to be very simple and it's good code to look at when learning the AndroidSDK.
 
 ##Building
-The app requires Android Studio to run. Clone this to your desktop and then open the repo in AS. Build under the build menu
+The app requires Android Studio to run. Clone this to your desktop and then open the repo in AS. Build under the build menu.
+If you want to run our build or are just lazy, you can find an APK build [here](https://www.dropbox.com/s/ry4in3jfyozn5gt/app-debug.apk?dl=0)
 
 ##You can do a lot of things with this code, but you can't:
 Put it on the Play Store
