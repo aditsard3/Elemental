@@ -1,5 +1,6 @@
 # Elemental
-An education app I created for Android
+An education app my friend and I created for Android
+Grab the APK build here: https://www.dropbox.com/s/ry4in3jfyozn5gt/app-debug.apk?dl=0
 
 ##About
 Just do whatever you want with this app. It gives you an element symbol and you type in the name, super simple. I wrote this app to be very simple and it's good code to look at when learning the AndroidSDK.
